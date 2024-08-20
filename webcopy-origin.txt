@@ -1,0 +1,104 @@
+Uri: https://codee.ca/process/figmaIcon.svg
+File Name: C:\Downloaded Web Sites\codee.ca\process\figmaIcon.svg
+Content Type: image/svg+xml
+
+Uri: https://codee.ca/process/photoshopIcon.svg
+File Name: C:\Downloaded Web Sites\codee.ca\process\photoshopIcon.svg
+Content Type: image/svg+xml
+
+Uri: https://codee.ca/web-design
+File Name: C:\Downloaded Web Sites\codee.ca\web-design.html
+Content Type: text/html
+
+Uri: https://codee.ca/_next/image?url=%2Fprojects%2FrecentProject.png&w=1080&q=100
+File Name: C:\Downloaded Web Sites\codee.ca\_next\recentProject-6.png
+Content Type: image/png
+
+Uri: https://codee.ca/_next/image?url=%2Fprojects%2FrecentProject.png&w=1200&q=100
+File Name: C:\Downloaded Web Sites\codee.ca\_next\recentProject-7.png
+Content Type: image/png
+
+Uri: https://codee.ca/_next/image?url=%2Fprojects%2FrecentProject.png&w=1920&q=100
+File Name: C:\Downloaded Web Sites\codee.ca\_next\recentProject-8.png
+Content Type: image/png
+
+Uri: https://codee.ca/_next/image?url=%2Fprojects%2FrecentProject.png&w=2048&q=100
+File Name: C:\Downloaded Web Sites\codee.ca\_next\recentProject-9.png
+Content Type: image/png
+
+Uri: https://codee.ca/_next/image?url=%2Fprojects%2FrecentProject.png&w=256&q=100
+File Name: C:\Downloaded Web Sites\codee.ca\_next\recentProject-1.png
+Content Type: image/png
+
+Uri: https://codee.ca/_next/image?url=%2Fprojects%2FrecentProject.png&w=384&q=100
+File Name: C:\Downloaded Web Sites\codee.ca\_next\recentProject-2.png
+Content Type: image/png
+
+Uri: https://codee.ca/_next/image?url=%2Fprojects%2FrecentProject.png&w=3840&q=100
+File Name: C:\Downloaded Web Sites\codee.ca\_next\recentProject.png
+Content Type: image/png
+
+Uri: https://codee.ca/_next/image?url=%2Fprojects%2FrecentProject.png&w=640&q=100
+File Name: C:\Downloaded Web Sites\codee.ca\_next\recentProject-3.png
+Content Type: image/png
+
+Uri: https://codee.ca/_next/image?url=%2Fprojects%2FrecentProject.png&w=750&q=100
+File Name: C:\Downloaded Web Sites\codee.ca\_next\recentProject-4.png
+Content Type: image/png
+
+Uri: https://codee.ca/_next/image?url=%2Fprojects%2FrecentProject.png&w=828&q=100
+File Name: C:\Downloaded Web Sites\codee.ca\_next\recentProject-5.png
+Content Type: image/png
+
+Uri: https://codee.ca/_next/static/chunks/682-2cc7274f7f79adad.js
+File Name: C:\Downloaded Web Sites\codee.ca\_next\static\chunks\682-2cc7274f7f79adad.js
+Content Type: application/javascript
+
+Uri: https://codee.ca/_next/static/chunks/959-3913be6a2db07cd1.js
+File Name: C:\Downloaded Web Sites\codee.ca\_next\static\chunks\959-3913be6a2db07cd1.js
+Content Type: application/javascript
+
+Uri: https://codee.ca/_next/static/chunks/framework-ecc4130bc7a58a64.js
+File Name: C:\Downloaded Web Sites\codee.ca\_next\static\chunks\framework-ecc4130bc7a58a64.js
+Content Type: application/javascript
+
+Uri: https://codee.ca/_next/static/chunks/main-be89c515900796e7.js
+File Name: C:\Downloaded Web Sites\codee.ca\_next\static\chunks\main-be89c515900796e7.js
+Content Type: application/javascript
+
+Uri: https://codee.ca/_next/static/chunks/pages/web-design-70fd5962af64199a.js
+File Name: C:\Downloaded Web Sites\codee.ca\_next\static\chunks\pages\web-design-70fd5962af64199a.js
+Content Type: application/javascript
+
+Uri: https://codee.ca/_next/static/chunks/pages/_app-4f5bc9a19247e094.js
+File Name: C:\Downloaded Web Sites\codee.ca\_next\static\chunks\pages\_app-4f5bc9a19247e094.js
+Content Type: application/javascript
+
+Uri: https://codee.ca/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js
+File Name: C:\Downloaded Web Sites\codee.ca\_next\static\chunks\polyfills-78c92fac7aa8fdd8.js
+Content Type: application/javascript
+
+Uri: https://codee.ca/_next/static/chunks/webpack-87b3a303122f2f0d.js
+File Name: C:\Downloaded Web Sites\codee.ca\_next\static\chunks\webpack-87b3a303122f2f0d.js
+Content Type: application/javascript
+
+Uri: https://codee.ca/_next/static/css/18fd436938c71614.css
+File Name: C:\Downloaded Web Sites\codee.ca\_next\static\css\18fd436938c71614.css
+Content Type: text/css
+
+Uri: https://codee.ca/_next/static/media/0e4fe491bf84089c-s.p.woff2
+File Name: C:\Downloaded Web Sites\codee.ca\_next\static\media\0e4fe491bf84089c-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://codee.ca/_next/static/media/934c4b7cb736f2a3-s.p.woff2
+File Name: C:\Downloaded Web Sites\codee.ca\_next\static\media\934c4b7cb736f2a3-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://codee.ca/_next/static/tgbUOhp3KF4ASJwGaxcz8/_buildManifest.js
+File Name: C:\Downloaded Web Sites\codee.ca\_next\static\tgbUOhp3KF4ASJwGaxcz8\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://codee.ca/_next/static/tgbUOhp3KF4ASJwGaxcz8/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\codee.ca\_next\static\tgbUOhp3KF4ASJwGaxcz8\_ssgManifest.js
+Content Type: application/javascript
+
